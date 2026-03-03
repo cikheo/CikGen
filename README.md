@@ -262,10 +262,11 @@ npm run preview
 
 ## 许可证
 
-MIT License
+GPL-3.0 LICENSE
 
 ---
 
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
+
