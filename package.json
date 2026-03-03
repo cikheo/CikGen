@@ -1,0 +1,20 @@
+{
+  "name": "cikgen",
+  "version": "1.0.0",
+  "description": "CikGen - 安全的随机密码生成器浏览器扩展",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node scripts/generate-icons.js",
+    "build:icons": "node scripts/generate-icons.js",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.21",
+    "pinia": "^2.1.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  }
+}
